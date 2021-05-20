@@ -6,4 +6,3 @@ anoher test
 another one
 Yest another 
 another one
-# classrepo
